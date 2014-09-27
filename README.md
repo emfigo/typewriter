@@ -33,3 +33,7 @@ $: Hello
    c
    :(
 ```
+
+###Links
+
+[C standard libraries](http://www.tutorialspoint.com/c_standard_library/index.htm)
